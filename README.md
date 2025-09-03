@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-on-Titanic-Data-Set
 
- 🛳 Titanic Survival Prediction.
+ ## 🛳 Titanic Survival Prediction.
 
 ## 📌 Project Overview
 
